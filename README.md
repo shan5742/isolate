@@ -6,3 +6,7 @@ A simple expo application that indicates isolation ability and effectiveness. Th
 
 - Ability to input a date when you started isolating
 - Outputs a score and some useful information based on the length of your isolation
+
+### Screenshots
+
+![auth screen](./assets/isolate.png)
